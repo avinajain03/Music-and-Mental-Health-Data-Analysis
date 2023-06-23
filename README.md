@@ -1,5 +1,5 @@
 # Music-and-Mental-Health-Data-Analysis
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nami.org%2FBlogs%2FNAMI-Blog%2FJanuary-2022%2FHow-Music-Shaped-My-Mental-Health-Journey&psig=AOvVaw3ad25B2PYWznn-vxvK-XxG&ust=1687632386354000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCpo9mG2v8CFQAAAAAdAAAAABAE">
+![Music_Blog](https://github.com/avinajain03/Music-and-Mental-Health-Data-Analysis/assets/125721987/494a6ec1-60b2-44a6-abdf-763b8d82639f)
 
 ### Introduction
 Music therapy, or MT, is the use of music to improve an individual's stress, mood, and overall mental health. MT is also recognized as an evidence-based practice, using music as a catalyst for "happy" hormones such as oxytocin.
