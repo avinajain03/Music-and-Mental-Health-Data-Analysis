@@ -1,20 +1,20 @@
 # Music-and-Mental-Health-Data-Analysis
-
-## INTRODUCTION
+![health](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nami.org%2FBlogs%2FNAMI-Blog%2FJanuary-2022%2FHow-Music-Shaped-My-Mental-Health-Journey&psig=AOvVaw3ad25B2PYWznn-vxvK-XxG&ust=1687632386354000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCpo9mG2v8CFQAAAAAdAAAAABAE)
+### Introduction
 Music therapy, or MT, is the use of music to improve an individual's stress, mood, and overall mental health. MT is also recognized as an evidence-based practice, using music as a catalyst for "happy" hormones such as oxytocin.
 
 However, MT employs a wide range of different genres, varying from one organization to the next.
 
 The MxMH dataset aims to identify what, if any, correlations exist between an individual's music taste and their self-reported mental health. Ideally, these findings could contribute to a more informed application of MT or simply provide interesting sights about the mind.
 
-## ABOUT DATA
+### About Dataset
 Data collection was managed by @catherinerasgaitis via a Google Form. Respondents were not restricted by age or location.
 
 The form was posted in various Reddit forums, Discord servers, and social media platforms. Posters and "business cards" were also used to advertise the form in libraries, parks, and other public locations.
 
 The form was relatively brief so that respondents would be more likely finish the survey. "Harder" questions (such as BPM) were left optional for the same reason.
 
-## INTERPRETING DATA
+### Interpreting Data
 Block 0: Background
 Respondents answer generic questions focused on musical background and listening habits.
 
@@ -31,14 +31,14 @@ Respondents rank Anxiety, Depression, Insomnia, and OCD on a scale of 0 to 10, w
 0 - I do not experience this.
 10 - I experience this regularly, constantly/or to an extreme.
 
-## LIBRARIES USED
+### Libraries 
 
 1. Pandas
 2. Matplotlib
 3. Seaborn
 4. Numpy
 
-## RESULTS
+## Results
 From the analysis, it is very evident that music is an effective tool in regulating mental health conditions.
 But not every type of music can be effective, there are many genres which may worsen situations, others definitely improve mental health conditions.
 From the stats and visualizations, almost 75% of participants reported an improvement in mental health symptoms listening to music, 23% had no effect, and 2% thought it worsened symptoms. Self reported scores showed that the majority of participants had more severe symptoms related to anxiety and depression, with less severe score for insomnia, and OCD being the least prevelent illness.
