@@ -26,6 +26,7 @@ Never
 Rarely
 Sometimes
 Very frequently
+
 Block 2: Mental health
 Respondents rank Anxiety, Depression, Insomnia, and OCD on a scale of 0 to 10, where:
 
